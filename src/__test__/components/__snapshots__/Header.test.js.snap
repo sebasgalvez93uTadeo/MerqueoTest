@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snapshot Comprobar UI del componente Header 1`] = `
+<header>
+  <h1
+    id="titleMerqueo"
+  >
+    Merqueo Test
+  </h1>
+  <img
+    alt="icon Menu"
+    src={Object {}}
+  />
+</header>
+`;

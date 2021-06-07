@@ -1,0 +1,22 @@
+@import "../../../App.scss";
+
+.container-socialBar {
+  width: auto;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  left: 2px;
+  bottom: 36px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+  background-color: $gray-comment;
+  border-radius: 15px;
+  img {
+    width: 15px;
+    height: 15px;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    cursor: pointer;
+  }
+}

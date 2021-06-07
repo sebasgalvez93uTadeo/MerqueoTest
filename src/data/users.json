@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Carolina Angarita",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/24/19/49/people-3104635_960_720.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Laura Cordoba",
+            "picture": "https://cdn.pixabay.com/photo/2017/03/26/21/54/yoga-2176668_960_720.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sebastian Galvez",
+            "picture": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Raul Gazca",
+            "picture": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_960_720.jpg"
+        }
+    ]
+}

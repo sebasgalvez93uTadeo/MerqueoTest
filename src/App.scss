@@ -1,0 +1,31 @@
+/*
+1. Posicionamiento
+2. Modelo caja (Box model)
+3. tipografia
+4. Visuales
+5. Otros
+*/
+
+/* Colores */
+$main-font: 'Poppins', sans-serif;
+$second-font: 'Raleway', sans-serif;
+$main-color: #D00170;
+$gray-bg-comment: #DEDEDE;
+$gray-text: #878787;
+$white: #FFFFFF;
+$dark-grey: #2E2E2E;
+$gray-comment: #F6F6F4;
+$gray: #BABABA;
+$background: #F4F4F4;
+
+body {
+    background-color: #dedede;
+}
+
+.main-section {
+    width: 100%;
+    height: auto;
+    padding: 64px 20px 20px 20px;
+    max-width: 660px;
+    margin: 0 auto;
+}

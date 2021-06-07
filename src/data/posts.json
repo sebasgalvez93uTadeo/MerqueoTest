@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "Camila Parra",
+      "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit deserunt quia mollitia alias.",
+      "date": "2021-05-07T14:01:44-05:00",
+      "reactions": {
+        "like": [
+            {
+              "id": 1,
+              "name": "Camila Parra",
+              "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+            },
+            {
+              "id": 2,
+              "name": "Carolina Angarita",
+              "picture": "https://cdn.pixabay.com/photo/2018/01/24/19/49/people-3104635_960_720.jpg"
+            },
+            {
+              "id": 3,
+              "name": "Laura Cordoba",
+              "picture": "https://cdn.pixabay.com/photo/2017/03/26/21/54/yoga-2176668_960_720.jpg"
+            },
+            {
+              "id": 4,
+              "name": "Sebastian Galvez",
+              "picture": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg"
+            }
+        ],
+        "happy": [
+          {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+          }
+        ],
+        "love": [
+          {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+          }
+        ],
+        "sad": [
+          {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+          }
+        ],
+        "cry": [
+          {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+          }
+        ],
+        "think": [
+          {
+            "id": 1,
+            "name": "Camila Parra",
+            "picture": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "id": 1,
+          "author": "Carolina Angarita",
+          "picture": "https://cdn.pixabay.com/photo/2018/01/24/19/49/people-3104635_960_720.jpg",
+          "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit deserunt quia mollitia alias.",
+          "date": "2021-06-07T14:01:44-05:00"
+        },
+        {
+          "id": 2,
+          "author": "Sebastian Rodriguez",
+          "picture": "https://cdn.pixabay.com/photo/2018/01/24/19/49/people-3104635_960_720.jpg",
+          "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit deserunt quia mollitia alias.",
+          "date": "2020-05-10T10:01:44-05:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Sebastian Galvez",
+      "picture": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit deserunt quia mollitia alias.",
+      "date": "2021-06-06T14:01:44-05:00",
+      "reactions": {
+        "like": [],
+        "happy": [],
+        "love": [],
+        "sad": [],
+        "cry": [],
+        "think": []
+      },
+      "comments": [
+      ]
+    }
+  ]
+}
