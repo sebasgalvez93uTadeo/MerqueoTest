@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header Snapshot Comprobar UI del componente Header 1`] = `
+exports[`Header Snapshot Comprobra UI del componente Header 1`] = `
 <header>
   <h1
     id="titleMerqueo"

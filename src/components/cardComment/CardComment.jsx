@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import moment from "moment";
 import 'moment/locale/es';
-import ListIntComments from './ListComment';
+import ListComments from './ListComment';
 import NewComment from './NewComment';
 import SocialBar from '../socialBar/SocialBar';
 import './styles/style.scss';
@@ -81,7 +81,7 @@ class CardComment extends React.Component {
   render() {
     // Recorrer el arreglo de comentarios en los comentarios
     const commentsMap = this.state.comments.map((values, index) => (
-      <ListIntComments 
+      <ListComments 
         key={index}
         picture={values.picture}
         author={values.author}

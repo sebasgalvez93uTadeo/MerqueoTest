@@ -2,7 +2,7 @@ import React from 'react';
 import moment from "moment";
 import 'moment/locale/es';
 
-class ListIntComments extends React.Component {
+class ListComments extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -26,4 +26,4 @@ class ListIntComments extends React.Component {
   }
 }
 
-export default ListIntComments;
+export default ListComments;

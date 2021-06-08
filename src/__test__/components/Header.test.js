@@ -5,7 +5,7 @@ import Header from '../../components/header/Header';
 
 describe('<Header />', () => {
   const header = mount(<Header />);
-  test('Render del componente Footer', () => {
+  test('Render del componente header', () => {
     expect(header.length).toEqual(1);
   });
   test('Render del titulo', () => {
@@ -13,7 +13,7 @@ describe('<Header />', () => {
   });
 });
 describe('Header Snapshot', () => {
-  test('Comprobar UI del componente Header', () =>{
+  test('Comprobra UI del componente Header', () =>{
     const header = create(<Header />);
     expect(header.toJSON()).toMatchSnapshot();
   });
