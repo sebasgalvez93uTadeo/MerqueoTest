@@ -9,6 +9,7 @@
 - Jest: para la implementacion de las pruebas
 - enzyme: libreria de airbnb para testing
 
+## Descripcion del proyecto
 * Los posts se guardan en localStorage
 * Los primeros posts se traen del archivo llamado post.json 
 * Los usuarios se toman de forma aleatoria del archivo llamado users.json, se envia uno en cada recarga del sitio para que sea este quien comente e interactue con el sitio
