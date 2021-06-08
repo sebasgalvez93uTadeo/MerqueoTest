@@ -4,23 +4,23 @@
 ## Tecnologías
 - React
 - Moment
-- react-id-generator: para poder asignar un identificador unico a los comentarios
+- react-id-generator: para poder asignar un identificador único a los comentarios
 - SASS
-- Jest: para la implementacion de las pruebas
+- Jest: para la implementación  de las pruebas
 - enzyme: libreria de airbnb para testing
 
 ## Descripcion del proyecto
-* Los posts se guardan en localStorage
+* Los post se guardan en localStorage
 * Los primeros posts se traen del archivo llamado post.json 
-* Los usuarios se toman de forma aleatoria del archivo llamado users.json, se envia uno en cada recarga del sitio para que sea este quien comente e interactue con el sitio
-* Solo se permite una reacción por publicación (like) las otras interacciones se puede indefinidamente y se almacenan en localstorage
-* el testing se compone de validaciones de renderizado y correcto envio de props, tambien se genera un snapShot en el componente Header, ya que este no esta presto a tener cambios en el UI del sitio. 
+* Los usuarios se toman de forma aleatoria del archivo llamado users.json, se envía uno en cada recarga del sitio para que sea este quien comente e interactúe con el sitio
+* Solo se permite una reacción por publicación (like) las otras interacciones se pueden enviar indefinidamente y se almacenan en localstorage
+* el testing se compone de validaciones de renderizado y correcto envío de props, también se genera un snapShot en el componente Header, ya que este no está presto a tener cambios en él UI del sitio.
 
 
 ## Comandos
 ### `npm install`
-* proceso de intalacion de las dependecias del sitio
+* proceso de instalación de las dependencias del sitio
 ### `npm start`
-* inicia la aplicación
+* inicio de la aplicaciónn
 ### `npm test`
 * ejecutar testing
