@@ -43,4 +43,7 @@ describe('<CardState />', () => {
     expect(cardState.props().randomUser).toEqual(randomUser);
     expect(cardState.props().newDataPosts).toEqual(newDataPosts);
   });
+  test('prueba del boton oculto de envio de comentario hasta el tap al input', () => {
+    expect(cardState.find('button')).toHaveLength(0);
+  });
 });

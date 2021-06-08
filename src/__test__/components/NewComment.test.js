@@ -45,4 +45,7 @@ describe('<NewComment />', () => {
     expect(newComment.props().newDataPosts).toEqual(newDataPosts);
     expect(newComment.props().showBox).toEqual(showBox);
   });
+  test('prueba del boton de envio de comentario siempre visible', () => {
+    expect(newComment.find('button')).toHaveLength(1);
+  });
 });
